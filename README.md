@@ -2,7 +2,7 @@
 <img src= "https://imgur.com/1xkHO5p.png" height="60%" width="40%" alt="AD-Logo"/>
 </p>
 <h1>Configuring Active Directory in the Cloud</h1>
-Summary: In this project, I installed and configured Active Directory on Microsoft's cloud platorm, Azure.<br />
+Summary: The following is a walk-through of the key points in installing and configuring Active Directory on Microsoft's cloud platorm, Azure.<br />
 
 <h2>Requirements</h2>
 
@@ -52,9 +52,9 @@ Summary: In this project, I installed and configured Active Directory on Microso
 </br>
 
 <p>
-<img src= "https://imgur.com/7o6TL2D.png" height="80%" width="80%" alt="Promote-Server"/>
+<img src= "https://imgur.com/OD74fd3.png" height="80%" width="80%" alt="Promote-Server"/>
 </p>
-4. At this point, I promoted server DC-1 to a Domain Controller, setting up a new forest in the process.
+4. At this point, I promoted server DC-1 to a Domain Controller and set up a new forest in Active Directory.
 </br>
 </br>
 
@@ -66,19 +66,25 @@ Summary: In this project, I installed and configured Active Directory on Microso
 </br>
 
 <p>
-<img src= "https://imgur.com/l2099O0.png" height="80%" width="80%" alt="Join-Client-1"/>
+<img src= "https://imgur.com/t6KXrc4.png" height="80%" width="80%" alt="Join-Client-1"/>
 </p>
-6. Next, I joined Client-1 to the new domain on DC-1 by renaming it and making it a member of the new domain. I then verified that Client-1 showed up in Active Directory Users and Computers. 
+6. Next, I joined Client-1 to the new domain on DC-1 by making it a member of the domain I had set up on DC-1. 
+</br>
+</br>
+
+<p>
+<img src= "https://imgur.com/l2099O0.png" height="80%" width="80%" alt="Client-1-ADUC"/>
+</p>
+7. I then verified that Client-1 showed up in Active Directory Users and Computers.  
 </br>
 </br>
 
 <p>
 <img src= "https://imgur.com/Ywl1n8x.png" height="80%" width="80%" alt="RDP-Non-Admin"/>
 </p>
-7. In this step, I set up remote access to Client-1 for non-administrative users by allowing Domain Users access to Remote Desktop. 
+8. In this step, I set up remote access to Client-1 for non-administrative users by allowing Domain Users access to Remote Desktop. 
 </br>
 </br>
-
 
 <p>
 <img src= "https://imgur.com/3EPmIiG.png" height="80%" width="80%" alt="Create-Users"/>
