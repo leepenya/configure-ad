@@ -1,8 +1,8 @@
 <p align="center">
 <img src= "https://imgur.com/1xkHO5p.png" height="60%" width="40%" alt="AD-Logo"/>
 </p>
-<h1>Configuring Active Directory in Microsoft Azure</h1>
-Summary: In this project, I installed and configured Microsoft Active Directory within Microsoft Azure.<br />
+<h1>Configuring Active Directory in Microsoft Azure Virtual Machines</h1>
+Summary: In this project, I installed and configured Microsoft Active Directory within Microsoft Azure Virtual Machines.<br />
 
 <h2>Requirements</h2>
 
