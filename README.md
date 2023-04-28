@@ -12,7 +12,7 @@ Summary: The following is a walk-through of the key points in installing and con
   
  <h2>Environments & Technologies Used</h2>
  
- - Microsoft Azure (Virtual Machines/Network Security Groups)
+ - Microsoft Azure (virtual machines)
  - Remote Desktop
  - Microsoft Active Directory
  - Windows command line & PowerShell
