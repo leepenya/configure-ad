@@ -61,7 +61,7 @@ Summary: The following is a walk-through of the key points in installing and con
 <p>
 <img src= "https://imgur.com/mTNnY5d.png" height="80%" width="80%" alt="Create-User"/>
 </p>
-5. I then created two organizational units (_EMPLOYEES and _ADMINS) and a user (Kit Afton) and added the user to the Domain Admins security group.
+5. I then created two organizational units (_EMPLOYEES and _ADMINS) and a user and added the user to the Domain Admins security group.
 </br>
 </br>
 
