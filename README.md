@@ -99,7 +99,7 @@ Summary: The following is a walk-through of the key points in installing and con
 9. Finally, I attemped to log into Client-1 with one of the accounts created in Step 8, and was successful.
 </br>
 </br>
-Thanks for checking out my Active Directory/Azure lab!
+Thanks for checking out my Active Directory in the Cloud lab!
 </br>
 
 
