@@ -96,7 +96,7 @@ Summary: The following is a walk-through of the key points in installing and con
 <p>
 <img src= "https://imgur.com/UYUqVgZ.png" height="80%" width="80%" alt="User-Login"/>
 </p>
-9. Finally, I attemped to log into Client-1 with one of the accounts created in Step 8, and was successful.
+9. Finally, I attemped to log into Client-1 with one of the accounts created in Step 8. My login attempt succeeded, as indicated above.
 </br>
 </br>
 Thanks for checking out my Active Directory in the Cloud lab!
